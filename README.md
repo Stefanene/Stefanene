@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am an MS CS Systems student at Stanford University🌲, improving every day on my OS and secure systems development.
 
 - 🔭 I’m currently working on a privacy-preserving system for secure cloud LLM queries and on a custom lightweight OS.
-- 🌱 I’m currently privacy-preserving systems and blockchain technologies.
+- 🌱 I’m currently learning privacy-preserving systems and blockchain technologies.
 
 ## Connect with me:
 
@@ -48,9 +48,9 @@ This project was my first experience with low-level code within one of my first 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![git](https://img.shields.io/endpoint?url=git&logo=git&logoColor=%23F1502F)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
