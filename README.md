@@ -33,6 +33,9 @@ Instagram: https://instagram.com/stef_an_ene
 
 This project addresses secure communication with cloud LLMs using secured virtual machine (VM) environments. Making use of privacy concepts like public-key encryption, oblivious RAM, and private information retrieval, the aim of this project is to to improve the privacy of queries made to cloud LLM providers. The idea is for various users to send encrypted queries to a trusted execution environment, which performs its secure pre-processing steps. This Trusted Execution Environment (TEE) then sends anonymized queries to external LLM, then re-encrypts responses to send back to the user.</p>
 
+![securellm_fig](https://github.com/user-attachments/assets/47244dd9-44e6-4bc2-90b0-8d9a123760aa)
+
+
 ### Chloros User Threads Library
 
 
