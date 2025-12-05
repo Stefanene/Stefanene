@@ -31,6 +31,7 @@ Instagram: https://instagram.com/stef_an_ene
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nvim](https://img.shields.io/badge/NVIM-gray?style=for-the-badge&logo=neovim)
 ![Assembly](https://img.shields.io/badge/Assembly-blue?style=for-the-badge)
 ![git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -65,4 +66,12 @@ This project addresses secure communication with cloud LLMs using secured virtua
 ### [Small Shell](https://github.com/Stefanene/Small-Shell/blob/main/smallsh.c)
 
 This project was my first experience with low-level code within one of my first Operating Systems courses. This C program uses process forking to execute a few UNIX terminal commands, including `ls`, `cat`, `cd`, `mkdir`, `exit`, pipeline operators, and other process signals
+
+## Setups:
+
+### [Neovim config](https://github.com/Stefanene/nvim_config)
+
+<img width="786" height="631" alt="image" src="https://github.com/user-attachments/assets/58e61bc1-1026-41c7-9ff7-1e9073c4afcd" />
+
+
 
